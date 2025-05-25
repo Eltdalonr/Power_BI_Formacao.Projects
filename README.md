@@ -12,10 +12,10 @@ Ao longo da formação, estou explorando visualizações personalizadas, recurso
 
 
 Relatório de Vendas considerando Países e Lucro:  
-![Relatório_de_Vendas_Considerando_Países_e_Lucro](https://github.com/user-attachments/assets/0f8e4e47-b3b0-41a3-9402-0ab85deb7086)
+![Relatório_1](https://github.com/user-attachments/assets/1dca5d4a-b535-48e3-b377-b69aaf46b3d7)
 
 Relatório de Vendas considerando Segmento e País:  
-![Relatório_de_Vendas_Considerando_Segmento_e_País](https://github.com/user-attachments/assets/778b657f-8473-4494-955d-adf0c83db861)
+![Relatório_2](https://github.com/user-attachments/assets/4790f01b-922a-41aa-9609-320da6cb8c66)
 
 ***
 
@@ -24,10 +24,12 @@ Relatório de Vendas considerando Segmento e País:
 
 
 Relatório de Vendas:  
-![Relatório_de_Vendas](https://github.com/user-attachments/assets/2b6f027f-a3d7-442d-b8ef-97c0d0d2b6c7)
+![Relatório_1](https://github.com/user-attachments/assets/8d06c66e-78c6-490c-a4b1-8fe12b15a71e)
+
 
 Relatório de Lucro detalhado:  
-![Relatório_de_Lucro_Detalhado](https://github.com/user-attachments/assets/ff8bd9b0-c544-4294-808d-3e9e1b88a18e)
+![Relatório_2](https://github.com/user-attachments/assets/45a50240-dd29-4d89-ade4-8af90b31eb6e)
+
 
 ***
 
