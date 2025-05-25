@@ -38,7 +38,8 @@ Relatório de Lucro detalhado:
 
 
 Relatório de Funcionários:  
-![Relatório_de_Funcionários](https://github.com/user-attachments/assets/bfc9a677-634d-411f-83df-5993ed106225)
+![Relatório_de_Funcionários](https://github.com/user-attachments/assets/0873668a-6b71-4f95-b2eb-e64ca32ae70d)
+
 
 ***
 
