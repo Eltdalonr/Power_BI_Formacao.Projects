@@ -33,8 +33,8 @@ Relatório de Lucro detalhado:
 
 ***
 
-- **Projeto3:** Criando um Dashboard corporativo com integração com MySQL e Azure  
-**Descrição:** Foi criada uma integração entre o Azure e o MySQL, transformando os dados e criando um relatório a fim de ilustrá-los.  
+- **Projeto3:** Criando um Dashboard corporativo com integração com MySQL 
+**Descrição:** Foi criada uma integração com MySQL, transformando os dados e criando um relatório a fim de ilustrá-los.  
 
 
 Relatório de Funcionários:  
