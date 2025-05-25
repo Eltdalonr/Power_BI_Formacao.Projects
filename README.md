@@ -1,4 +1,4 @@
-![graphic_bars_chart_analytics_statistics_icon_185973 (1)](https://github.com/user-attachments/assets/50f69557-2315-4884-b8fd-e36fff28cb63)  
+![icons8-poder-bi-2021-48](https://github.com/user-attachments/assets/9fd6347a-077d-4ea2-a1cf-f5e5c2fd13c4)
 **Repositório da minha formação e Projetos em Power BI Analyst**  
 ***
 
