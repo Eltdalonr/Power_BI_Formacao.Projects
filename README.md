@@ -46,10 +46,27 @@ Relatório de Funcionários:
 - **Projeto4:** Modelagem Dimensional com Power BI (Esquema em Estrela)  
 **Descrição:** Foram desenvolvidos dois modelos dimensionais com foco em análise de dados, cada um com uma base distinta. Utilizou-se o **SQLDBM** para modelar o esquema da base "Professores" e o **PowerBI** para base "Financial Sample". 
 
-
 Starchema Professores:  
 ![Modelo_Dimensional_Professores](https://github.com/user-attachments/assets/efc70c81-86f9-4cf0-8dd1-fa94e36f4ccc)
 
-
 Starchema Vendas:  
 ![Modelo_Dimensional_Vendas](https://github.com/user-attachments/assets/48be5360-9a6b-470a-8cfe-147ec8f540c9)
+
+***
+
+- **Projeto5:** Atualizando Relatório Financeiro com Foco na Experiência do Usuário  
+**Descrição:** O projeto teve como objetivo reformular um relatório financeiro criativo, com foco no design centrado no usuário. Foram aplicados conceitos de posicionamento estratégico, contraste, proporção áurea e segmentação visual para uma apresentação mais intuitiva e interativa dos dados. O projeto foi dividido em três páginas, com menus e botões de navegação personalizados, mantendo a consistência e fluidez na experiência.
+
+Relatório de Sales:  
+![Relatório_1](https://github.com/user-attachments/assets/e77a882f-7d9d-404c-b9a0-03dfffc3aa9a)
+
+
+Relatório de Profit:  
+![Relatório_2](https://github.com/user-attachments/assets/cf424bd7-0dc3-4d1c-a8df-4a846120d1aa)
+
+
+Relatório de Report:  
+![Relatório_3](https://github.com/user-attachments/assets/1535052e-6a27-439e-b0ab-2bc9e4f7f7be)
+
+
+***
