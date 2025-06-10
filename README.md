@@ -70,3 +70,15 @@ Relatório de Report:
 
 
 ***
+- **Projeto6:** Relatório de Análise de Vendas Internacionais  
+**Descrição:** Relatório composto por duas páginas criado com base em dados internacionais de vendas, com foco em clareza visual e usabilidade. Foram utilizadas boas práticas de modelagem, KPIs estratégicos, análises geográficas, temporais e comparativas. O relatório inclui segmentadores interativos, tooltips personalizados e estrutura modular para facilitar a navegação e a compreensão dos dados por parte dos stakeholders.
+
+Página Principal (KPIs, Produtos, Países e Dispersão Temporal):  
+![Relatório_Principal](https://github.com/user-attachments/assets/79573f0e-002b-4fa6-a9f5-adeb76682979)
+
+
+Página Detalhes (Semestres, Trimestres, Histogramas e Produtos por Unidade):  
+![Relatório_Detalhes](https://github.com/user-attachments/assets/957ac79b-febe-4672-832c-b04c48c06cc7)
+
+
+***
