@@ -82,3 +82,19 @@ Página Detalhes (Semestres, Trimestres, Histogramas e Produtos por Unidade):
 
 
 ***
+- **Projeto7:** Relatório de Desempenho Financeiro com Parâmetros Dinâmicos  
+**Descrição:** Este projeto teve como objetivo demonstrar o uso de **Parâmetros de Campo no Power BI**, permitindo ao usuário interagir e personalizar as visualizações com base em diferentes categorias e métricas.
+
+Foram aplicadas duas segmentações principais:
+
+- **Segmentação por Categoria:** Onde o usuário pode escolher entre **Country**, **Month Name** ou **Product**, impactando diretamente o eixo de análise dos gráficos.
+- **Segmentação por Métrica:** Onde é possível alternar entre **avg sales**, **total sales** e **Profit**, alterando os valores exibidos em tempo real.
+
+Além disso, foram mantidas as boas práticas de layout, storytelling e interatividade com foco na experiência do usuário.
+
+Página de Análise Dinâmica:
+![Relatório desempenho financeiro](https://github.com/user-attachments/assets/75d69ad1-f85c-4e9c-9d7e-a2b5b2360739)
+
+
+***
+
